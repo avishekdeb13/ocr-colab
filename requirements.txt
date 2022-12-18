@@ -1,0 +1,11 @@
+pytesseract
+h5py==2.10.0
+ISR
+pdf2image
+img2pdf
+poppler-utils
+regex
+PILLOW
+opencv-python
+matplotlib
+protobuf==3.20.*
